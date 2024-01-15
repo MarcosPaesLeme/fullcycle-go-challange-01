@@ -23,8 +23,8 @@ If you want to execute without the `multistage building`, execute:
 
 ##### Images sizes
 
-Using `multistage building` - `885MB`
-Not using `multistage building` - `1.8MB`
+Using `multistage building` - `1.8MB`
+Not using `multistage building` - `885MB`
 
 
 
